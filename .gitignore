@@ -1,0 +1,10 @@
+.gradle
+build
+.idea
+logs
+*iml
+
+src/site/.tmp/
+src/site/bower_components/
+src/site/client/bower_components/
+src/site/node_modules
